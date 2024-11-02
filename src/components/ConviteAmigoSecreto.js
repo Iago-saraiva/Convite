@@ -42,7 +42,7 @@ const ConviteAmigoSecreto = () => {
                 />
                 <br /><br />
 
-                <button type="submit">Enviar Convite</button>
+                <button type="submit"> <span>Enviar   </span> Convite</button>
             </form>
             <a className='desejos' href="https://iago-saraiva.github.io/lista-desejos/" target="_blank" rel="noopener noreferrer">
         Lista de desejos
