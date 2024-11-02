@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Convite/static/css/main.a0dc58b3.css",
+    "main.js": "/Convite/static/js/main.221e0fb3.js",
+    "static/js/453.f42573b0.chunk.js": "/Convite/static/js/453.f42573b0.chunk.js",
+    "static/media/fundo.png": "/Convite/static/media/fundo.9514b7ab4fb5cd08b11b.png",
+    "index.html": "/Convite/index.html",
+    "main.a0dc58b3.css.map": "/Convite/static/css/main.a0dc58b3.css.map",
+    "main.221e0fb3.js.map": "/Convite/static/js/main.221e0fb3.js.map",
+    "453.f42573b0.chunk.js.map": "/Convite/static/js/453.f42573b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0dc58b3.css",
+    "static/js/main.221e0fb3.js"
+  ]
+}
